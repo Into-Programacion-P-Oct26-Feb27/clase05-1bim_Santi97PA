@@ -25,7 +25,9 @@ public class Ejemplo4 {
         promedio = entrada.nextDouble();
         
         entrada.nextLine();
-        
+        /*
+        sirve para dar un cambio de numerico a texto
+        */
         String nombreEstudiante;
         System.out.println("Ingrese nombre de estudiante");
         nombreEstudiante = entrada.nextLine();
