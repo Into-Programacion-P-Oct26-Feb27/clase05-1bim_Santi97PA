@@ -44,7 +44,7 @@ public class Ejemplo11 {
         }
 
         if (promedio < limiteNotas) {
-            System.out.printf("Estudiante %s naprobado con un "
+            System.out.printf("Estudiante %s aprobado con un "
                     + "promedio: %.2f\n", name, promedio);
         }
     }
